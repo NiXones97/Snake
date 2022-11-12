@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c3a9296-42ea-4e6b-b2ee-4b9ab50f0d40" name="Changes" comment="Project Loading...2">
+    <list default="true" id="5c3a9296-42ea-4e6b-b2ee-4b9ab50f0d40" name="Changes" comment="Project Loading...3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GamePanel.java" afterDir="false" />
     </list>
@@ -67,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668192589709</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Project Loading...3">
+      <created>1668198660493</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668198660493</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +92,7 @@
     <MESSAGE value="Project Loading..." />
     <MESSAGE value="Project Loading...1" />
     <MESSAGE value="Project Loading...2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project Loading...2" />
+    <MESSAGE value="Project Loading...3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project Loading...3" />
   </component>
 </project>
